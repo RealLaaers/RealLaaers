@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-## 👋 Hej, jeg er RealLaaers
-
-🎮 FiveM Developer
-
----
-
+## 👋 Helloooo
 ### 🚀 What i am currently working with
 **[ResidentRP](https://discord.gg/resident)**
 
