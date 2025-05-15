@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**RealLaaers/RealLaaers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hej, jeg er RealLaaers
 
-Here are some ideas to get you started:
+🎮 FiveM-udvikler med mange års erfaring i **Lua-scripting**, serverstruktur og optimering. Jeg brænder for at skabe unikke og performancevenlige løsninger til GTA V RP – både teknisk og visuelt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Jeg kombinerer min baggrund i udvikling med flair for **UI/UX-design**, hvilket gør mine scripts både effektive og brugervenlige.
+
+---
+
+### 🚀 Hvad jeg arbejder på
+Aktivt i gang med at udvikle **[ResidentRP](https://discord.gg/navigate)** – en dansk RP-server med fokus på kvalitet, realisme og community.
+
+**Languages**  
+`Lua` · `JavaScript` · `Node.js` · `Python` · `PHP` · `MySQL` `HTML` · `CSS`
+
+---
+
