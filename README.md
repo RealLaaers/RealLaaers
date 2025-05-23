@@ -6,6 +6,8 @@
 
 **Languages**  
 `Lua` · `JavaScript` · `Node.js` · `Python` · `PHP` · `MySQL` `HTML` · `CSS`
+https://github.com/OasisDK/Oasis2.0
+https://github.com/RealLaaers/fivexdk
 
 ---
 
