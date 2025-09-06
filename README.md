@@ -2,7 +2,7 @@
 
 ## 👋 Helloooo
 ### 🚀 What i am currently working with
-**[ResidentRP](https://discord.gg/resident)**
+**[LegacyRP](https://discord.gg/legacydk)**
 
 **Languages**  
 `Lua` · `JavaScript` · `Node.js` · `Python` · `PHP` · `MySQL` `HTML` · `CSS`
